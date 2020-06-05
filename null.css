@@ -1,0 +1,34 @@
+/*<style type="text/css">*/
+img.recent-post-thumbnail{float:right;height:50px;width:50px;margin:5px -5px 0px 0px;-webkit-border-radius:50%;-moz-border-radius:50%;border-radius:50%;padding:3px;}
+ul.recent-posts-wrap {list-style-type: none; margin: 2.6%; padding: 0px;font:12px;}
+ul.recent-posts-wrap li:nth-child(1n+0) {background: #FDFC47;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #24FE41, #FDFC47);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #24FE41, #FDFC47); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */  width: 100%;}
+ul.recent-posts-wrap li:nth-child(2n+0) {background: #FDFC47;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #24FE41, #FDFC47);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #24FE41, #FDFC47); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+; width: 100%;-webkit-filter: drop-shadow(10px 3px 10px #000);
+filter: drop-shadow(10px 3px 10px #000);}
+ul.recent-posts-wrap li:nth-child(3n+0) {background: #FDFC47;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #24FE41, #FDFC47);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #24FE41, #FDFC47); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+; width: 100%;}
+ul.recent-posts-wrap li:nth-child(4n+0) {background: #FDFC47;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #24FE41, #FDFC47);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #24FE41, #FDFC47); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+; width: 100%;-webkit-filter: drop-shadow(10px 3px 10px #000);
+filter: drop-shadow(10px 3px 10px #000);}
+ul.recent-posts-wrap li:nth-child(5n+0) {background: #FDFC47;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #24FE41, #FDFC47);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #24FE41, #FDFC47); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+; width: 100%;margin-bottom:-10%;}
+ul.recent-posts-wrap li {padding:5px 10px;list-style-type: none; margin: 0 0 -5px; color: #444;}
+.recent-posts-wrap a { text-decoration:none; }
+.recent-posts-wrap a:hover { color: #FFB428;}
+.post-date {color:#777; font-size: 11px; }
+.recent-post-title a {font-size: 14px;font-weight: bold;color: #000;}
+.recent-post-title {padding: 6px 0px;}
+.recent-posts-details a{ color: #666;}
+.recent-posts-details {padding: 5px 0px 5px;
+margin: }
+/*</style>
